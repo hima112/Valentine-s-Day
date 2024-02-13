@@ -11,8 +11,11 @@ code {
   display: flex;
   justify-content: center; /* Horizontal center */
   align-items: center;
-  min-height: 450px; /* Vertical center */
+  min-height: 300px;
+  max-height: 400px;
   text-align: center;
+  margin-bottom: 20px;
+  margin-top: 50px;
 
 }
 
