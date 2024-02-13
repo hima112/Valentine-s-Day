@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 
 const questions = [
   
-  'Will you give me all the cuddles?',
-  'Will you give me all the kisses?',
-  'Will you listen to all my bak bak?',
-  'Will you take all my nakhra??',
-  'Will you let me annoy you??',
-  'Will you be mine forever?',
+  'Will you give me all the cuddles? 🤗',
+  'Will you give me all the kisses? 😽',
+  'Will you listen to all my bak bak? 🤭',
+  'Will you take all my nakhre 😌??',
+  'Will you let me annoy you??? 😜',
+  'Will you be mine forever? 💖',
   'Yay!! I love you'
 
 ];
@@ -80,7 +80,7 @@ function App() {
       <img src={`${process.env.PUBLIC_URL}/gifs/gif-1.gif`} alt="Happy valentines Day" />
     </div>
     <div className='question'>
-      <h1>Let's start, you better not say no!! </h1>
+      <h1>Let's start, you better not say no!! &#128548; &#128548; </h1>
     </div>
     <div className='buttondiv'>
       <button className='startbutton' onClick={handleStartClick}>Start</button>
